@@ -1,0 +1,17 @@
+.img-slideshow {
+
+}
+
+.img-slideshow .slide:not(.active) {
+    opacity: 0;
+    position: absolute;
+    transition-property: opacity;
+    transition-duration: .5s;
+}
+
+.img-slideshow .slide.active {
+    opacity: 1;
+    position: absolute;
+    transition-property: opacity;
+    transition-duration: .5s;
+}

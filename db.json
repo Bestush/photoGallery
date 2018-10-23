@@ -1,0 +1,38 @@
+{
+  "posts": [
+    { 
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode" ,
+      "img" :"https://cdn3.bigcommerce.com/s-nyvubldy/products/5683/images/7249/Mens-Ladies-Adult-Teletubbies-Costumes__72146.1432092630.1280.1280.jpg?c=2"
+    },
+    { 
+      "id": 2,
+      "title": "json-sklj;lj;j;erver",
+      "author": "typic;l;j;jode" ,
+      "img" :"http://static1.squarespace.com/static/52050743e4b061002eab9e17/t/5a8ae768c83025f59acc48f9/1534349487852/"
+    },
+    { 
+      "id": 3,
+      "title": "jsonkkjbkljbk-server",
+      "author": "typbkjkjkicode" ,
+      "img" :"http://static1.squarespace.com/static/52050743e4b061002eab9e17/t/5a8ae768c83025f59acc48f9/1534349487852/"
+    },{ 
+      "id": 4,
+      "title": "jsonkkjbkljbk-server",
+      "author": "typbkjkjkicode" ,
+      "img" :"https://www.rd.com/wp-content/uploads/2018/06/01-Fancy-Words-That-Make-You-Sound-Smarter-nicole-fornabaio-rd.com_-760x506.jpg"
+    },{ 
+      "id": 5,
+      "title": "jsonkkjbkljbk-server",
+      "author": "typbkjkjkicode" ,
+      "img" :"http://static1.squarespace.com/static/52050743e4b061002eab9e17/t/5a8ae768c83025f59acc48f9/1534349487852/"
+    },
+    { 
+      "id": 6,
+      "title": "jsonkkjbkljbk-server",
+      "author": "typbkjkjkicode" ,
+      "img" :"https://www.gia.edu/images/43754.jpg"
+    }
+  ]
+}
