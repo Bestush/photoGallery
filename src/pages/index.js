@@ -7,7 +7,7 @@ const IndexPage = () => (
     <h1>Bestun Gardi</h1>
     <p>Welcome to my photo gallery</p>
     <p>Enjoy</p>
-    <Link to="/test/">See all my photos</Link>
+    <Link to="/gallery/">See all my photos</Link>
 
     
   </Layout>
